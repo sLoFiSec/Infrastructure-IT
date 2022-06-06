@@ -22,8 +22,10 @@ Tenured experience, projects, and topics of contribution and growth
       d. All other duties as assigned
       e. 2D Animation and Rigging, 3D Rendering, Rigging, and Animation
       
+      
 > 2009 - 2012:
 > - *3 Years of College, L.C., Batesville, AR (Comp Sci > Music > History)
+
 
 > 2010-2012:
 > - *2 Years of Level 1 InfrastructureIT HelpDesk and A/V Support in Higher Education - Lyon College
@@ -33,9 +35,11 @@ Tenured experience, projects, and topics of contribution and growth
 >     c. Vendor relationship management with ISP
 >     d. Lyon College Mailroom duties as assigned as well
 
+
 > 2012-2014:
 > - *2 Years of finishing up Bachelors Degree from UCA.
 >   + Bachelors Degree of Arts, Minor in Marketing and Business Management/Logistics
+
 
 > 2014-2015:
 > - *1 Year as familial caregiver | nonpaid | before graduating from UCA - continued until securing paid career-employment in 8/15.
@@ -45,21 +49,28 @@ Tenured experience, projects, and topics of contribution and growth
 > 2015-2020:
 > - *4 Years as Technology Assistant II - Services Technician II equiv, EUC On-site & Remote Support Assistance for multi-site public school district.
 >   + APCS IT
+
 >     a. SCS Acquision & Retrofit - 2015-2016
 >       - Classroom InfraTech ran - VGA|HDMI|USB|AUX, All Classrooms & Assisted with tech stack deployment(s)
 >       - Tech Stack: Epson Interactive Projectors | MimioTech Interactive Hardware | Optoma X/S-Series Projectors | Document Cameras | SmartBoard/Mimio Suites | Dell & Aruba majority stack.
+
 >     b. MCES Expansion - 2015-2016
 >       - Classroom InfraTech ran - UXVGA|HDMI|USB|AUX, All Classrooms & Assisted with tech stack deployment(s) 
 >       - Tech Stack: Epson Interactive | MmioTech | Optoma Projectors | Document Cameras | Google Sites for Education | Chromebooks (HP G4 and Acer CB)
+
 >     c. MCHS Expansion - 2016-2017
 >       - Classroom InfraTech ran - Interactive Projectors, AppleTVs, SmartBoard Tech, and Document Cameras for 30+ classrooms & cafeteria
 >       - Tech Stack: Epson | Document Cameras | Google Sites for Education | Chromebooks (HP G4-G5s)
+
 >     d. MCES and MCHS (& District Website) Re-Hosting Solution (from external stakeholdership - web hosting and website creation to administration) over to an in-house solution utilizing our existing Google Enterprise Apps for Education Tech Stack. The project took 4-6 months total, starting in early May of 2016 - and ran alongside both the MCES and MCHS Expansions/New Sites. Had leadership opportunities without being direct leader. Did a lot of requests on behalf of my IT Director and Tech Lead.
 >       - Secure Data Harvesting, Salvaging, Data Manipulation, Data Retrieval, Data Organization, and Data Lake Creations into Google GCS Environment for APCS - reapplication and modding to display a more friendly UX and more centralized source of truth for each school in the district.
+
 >     e. MCES, MCHS, and SCS Newsletter Creation and Administration - 2018-2019 (6+ months on going product ownership from creation to management and allocation of specially assigned duties to respective school people leaders.) - 500+ hours total utilizing opensource/free tools due to bootstrapped budget.
+
 >     f. Admin Acquisition and Retrofit - 2018-2019
 >       - Assisted with retrofitting and actively cleaning up IT Tech Garage and inventorying circulating inventory throughout process
 >       - Learned that TVs are very fun to mount for A/V needs (from observer's experience)
+
 >     g. APCS Fixed Asset and Issued Asset Inventory Management Systems Responsibilities - 2016 - 2020
 >       - Helped re-inventory 3k+ endpoint devices in total, over a period of time, from equipment and asset justification to asset retirement
 >       - Object Based, Non-SQL, Database Inventory and GRC solution, WASP - Helped migrate older inventory from archiac times to modern era multitudes of times, so much so that over 98% of the devices that I was responsible for were fully and accurately inventoried to spec before my departure due to justified breaches of contract and me being discriminated against.
