@@ -77,12 +77,19 @@ Tenured experience, projects, and topics of contribution and growth
 
 > 2020-2022:
 > - *2 Years as Service Desk Respresenative - Insight Enterprises housed out of Chandler, AZ (formerly Tempe, AZ) - and regionally housed out of AR.
+
 >     a. Assisted as a vet on-site for younger and newer agents
+
 >     b. Helped provide training and moral support as a "senior agent" from August of 2020 to Janruary of 2022, to new and current teammates
+
 >     c. Volunteered for outbound calls and escalated issues that younger agents and service desk members would not touch for speciality client
+
 >     d. Served as a stand-in/Temporary SME for original Service Desk from April of 2021 to Janruary of 2022 - in absence of assigned taskmaster(s)
+
 >     e. Certified for EMM, under Samsung Enterprise Mobility Management environments and firms/clients.
->     f. Individual contributor that went above and beyond for 1.75 years throughout Covid - and worked more than should have - and got burnt out from lack of support from a regional level. HQ tried, but got tired of me whenever I realized my self-worth and the uncontrolled variables of inflation occurred - all due to a lack of covered perscriptions.
->     g. I got canned as retaliation for opening up a discrimination and harassment inquiry, in self-advocation for my disabilities. What is true is true, and "Truth never perishes." - Thanks J.D.
+
+>     f. Individual contributor that went above and beyond for 1.75 years throughout Covid - and worked more than should have - and got burnt out from lack of support from a regional level. HQ tried, but got tired of me whenever I realized my self-worth and the uncontrolled variables of inflation occurred - all due to a lack of covered perscriptions. I went to ask for a reasonable wage hike as a raise to help take care of my needs and pay off medical accrued debt imposed by my former employer, and I was met with resistance and disability discrimination and harassment regarding my continued employment. I opened up two seperate EthicsPoint Investigations - and both were "invesitgated" and "closed" in late April of 2022, finding no corroboration of my claims of being harassed and discriminated.
+
+>     g. I got canned on May 10, 2022, as retaliation for opening up a set of discrimination and harassment inquiries, in self-advocation for my disabilities. I am backed by my state of residence, so what is true is true, and "Truth never perishes." - Thanks J.D. - we can be heard eventually, but only after enough noise has been raised. I made the decision to move onward, but I wanted to be transparent because my credibility is at stake - and I take my professional career seriously, with both honesty and harmony. It comes standard with being an Eagle Scout.
 
 There you have it! My cherished and unique portfolio - makes me inexplicable, and valued. I am confident about finding the right place to work with - one day at a time! :)
