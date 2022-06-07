@@ -73,7 +73,7 @@ Tenured experience, projects, and topics of contribution and growth
 
 >     g. APCS Fixed Asset and Issued Asset Inventory Management Systems Responsibilities - 2016 - 2020
 >       - Helped re-inventory 3k+ endpoint devices in total, over a period of time, from equipment and asset justification to asset retirement
->       - Object Based, Non-SQL, Database Inventory and GRC solution, WASP - Helped migrate older inventory from archiac times to modern era multitudes of times, so much so that over 98% of the devices that I was responsible for were fully and accurately inventoried to spec before my departure due to justified breaches of contract and me being discriminated against.
+>       - Object Based, Non-SQL, Database Inventory and GRC solution, WASP - Helped migrate older inventory from archiac times to modern era multitudes of times, so much so that over 98% of the devices that I was responsible for were fully and accurately inventoried to spec before my departure due to numerous employer-contract breaches, and being discriminated against per my disabilities and genetics.
 
 > 2020-2022:
 > - *2 Years as Service Desk Respresenative - Insight Enterprises housed out of Chandler, AZ (formerly Tempe, AZ) - and regionally housed out of AR.
