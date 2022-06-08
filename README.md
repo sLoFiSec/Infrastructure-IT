@@ -12,16 +12,28 @@ Tenured experience, projects, and topics of contribution and growth
 >  - *1 Year Long Student Internship with Arkansas Educational Television Network
 >   + Foundations Department
 >     a. Data Entry for Pledge Drives
+>       - Excel, CRM, Hardcopy ledgers
+
 >     b. SQL Database manipulation for current and past donors/contributors
+>       - Microsoft Access, SQLite/Citrix O-DBRM, Excel
+
 >     c. Outbound calling experience, both as sales, educational, and informational
+>       - Digital/PoTs Lines, Switchboarding, Cold Calls, Welfare Checks, Customer/Donor Relationship Management
+
 >     d. Office Assistance and ODA
-    + Education Department
-      a. Virtual Reality & Virtual Classroom Design, AutoDesk Max 2009 and AutoDesk Maya 2009
-      b. Research, Data Analysis, Data Interpretation, Data Visualizations, Entry to Business Intelligence
-      c. Experience with Citrix for internal secure stakeholder responsibilities and duties.
-      d. All other duties as assigned
-      e. 2D Animation and Rigging, 3D Rendering, Rigging, and Animation
-      
+>       - Inventory and administrative assistant, duties as assigned
+
+>    + Education Department
+>      a. Virtual Reality & Virtual Classroom Design; 2D Animation and Rigging, 3D Rendering, Rigging, and Animation
+>       - AutoDesk Max 2009, AutoDesk Arch-CAD 2009, and AutoDesk Maya 2009
+>      b. Research, Data Analysis, Data Interpretation, Data Visualizations, Entry to Business Intelligence
+
+>      c. Experience with Citrix for internal secure stakeholder responsibilities and duties
+>       - Secure Internal Collaboration and Virtualized Networking Exposure
+
+>      d. All other duties as assigned
+>      - Research, Methodologies, Regulatory definitions, and ESRB rating system strict common framework adherence
+
       
 > 2009 - 2012:
 > - *3 Years of College, L.C., Batesville, AR (Comp Sci > Music > History)
